@@ -22,9 +22,8 @@ Welcome to the **Endless Tile Hopping Game**! This is an engaging and fun game w
 
 ## Play the Game
 
-```markdown
 [![Play Now](https://img.shields.io/badge/Play-WebGL-blue?style=for-the-badge&logo=googlechrome)](https://your-webgl-link-here.com)
-```
+
 
 ## Installation
 
