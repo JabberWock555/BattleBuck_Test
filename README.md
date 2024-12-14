@@ -51,10 +51,6 @@ git push origin feature/your-feature-name
 # Open a pull request.
 ```
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 Enjoy playing the Endless Tile Hopping Game! If you like the game, don't forget to star this repository and share it with your friends! ⭐
