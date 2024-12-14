@@ -1,4 +1,4 @@
-# Endless Tile Hopping Game
+# HOP!
 
 Welcome to the **Endless Tile Hopping Game**! This is an engaging and fun game where players control a bouncing ball by swiping left or right to land on tiles. The challenge is to stay on the tiles as long as possible without falling!
 
